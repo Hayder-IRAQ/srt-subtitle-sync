@@ -1,0 +1,7 @@
+# SRT Subtitle Sync Tool — Dependencies
+# Install with: pip install -r requirements.txt
+
+customtkinter>=5.2.0
+
+# tkinter is built into Python — no install needed
+# Linux only: sudo apt-get install python3-tk
